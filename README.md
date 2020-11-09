@@ -1,5 +1,5 @@
 # MyPython
-requests_catchGeneralAdministation_of_Drug.py:
+requests_catchGeneralAdministation_of_Drug.py:'\n'
   the project can get the information of every enterprise in the website of the General Administration of Drug Administration
 requests_catchKFCstores.py:
   you can input a key word and find the KFC store with the key word
